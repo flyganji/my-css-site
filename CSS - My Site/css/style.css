@@ -1,0 +1,157 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  margin: 0;
+  color: #40514e;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 5px auto;
+}
+
+h2 {
+  font-family: 'Montserrat-medium', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-width: 10px;
+  border-color: #ecf4f3;
+  border-style: dotted;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  text-align: center;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  width: 300px;
+}
+
+.mountain {
+  width: 600px;
+}
+.skill-row1 {
+  width: 70%;
+  margin: 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2 {
+    width: 70%;
+    margin: 80px auto;
+    text-align: left;
+    line-height: 2;
+    padding-top: 30px;
+}
+
+}
+.profile {
+  padding-top: 10px;
+  width: 50%;
+  margin: auto;
+}
+
+.profileimg {
+  width: 30%;
+}
+
+.img1 {
+  padding-top: 10px;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img2 {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+p {
+  line-height: 2;
+}
+.text {
+  margin: auto;
+}
+
+.btn {
+  background: #66bfbf;
+
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #67CfCF;
+
+  text-decoration: none;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
